@@ -1,0 +1,31 @@
+{
+  "name": "aluracord-meuchat",
+  "version": "1.0.0",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@skynexui/components": "1.24.2",
+    "@supabase/supabase-js": "1.29.4",
+    "next": "^12.0.8",
+    "next-router-mock": "0.6.5",
+    "next-routes": "1.4.2",
+    "react": "17.0.2",
+    "react-dom": "^17.0.2",
+    "reat": "^0.0.1-security",
+    "routes": "2.1.0",
+    "storybook-addon-next-router": "3.1.1",
+    "typescript": "4.5.5",
+    "webpack-env-prefix-plugin": "1.1.0",
+    "yarn": "1.22.17"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "biuld": "next biuld",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "devDependencies": {},
+  "description": ""
+}
